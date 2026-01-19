@@ -1,7 +1,3 @@
-# HELLO
-
-
-
 # Disclaimer
 
 Docker is not currently a supported configuration for Looker. This information is
